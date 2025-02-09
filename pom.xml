@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.nt</groupId>
 	<artifactId>SB_Jenkin_docker</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>SB_Jenkin_docker</name>
 	<description>Product-service</description>
 	<url/>
