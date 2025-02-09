@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nt</groupId>
-	<artifactId>6_SolidPrinciple</artifactId>
+	<artifactId>SB_Jenkin_docker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>6_SolidPrinciple</name>
+	<name>SB_Jenkin_docker</name>
 	<description>Product-service</description>
 	<url/>
 	<licenses>
